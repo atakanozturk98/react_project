@@ -1,0 +1,193 @@
+{
+  "products": [
+  {
+  "id": 1,
+  "categoryId": 2,
+  "productName": "Ali Çay",
+  "productSurname": "Demir",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 2,
+  "categoryId": 1,
+  "productName": "Ahmet Çangal",
+  "productSurname": "Yılmaz",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 4,
+  "categoryId": 1,
+  "productName": "Şef Anton'un Cajun Baharatı",
+  "productSurname": "Aydın",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 5,
+  "categoryId": 2,
+  "productName": "Şef Anton'un Gumbo Karışımı",
+  "productSurname": "Ersoy",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 6,
+  "categoryId": 2,
+  "productName": "Büyükanne'nin Boysenberry Reçeli",
+  "productSurname": "Öztürk",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 7,
+  "categoryId": 7,
+  "productName": "Amca Bob'un Organik Kuru Armutları",
+  "productSurname": "Kaya",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 8,
+  "categoryId": 2,
+  "productName": "Northwoods Cranberry Sosu",
+  "productSurname": "Aksoy",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 9,
+  "categoryId": 6,
+  "productName": "Mishi Kobe Niku",
+  "productSurname": "Çelik",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 10,
+  "categoryId": 8,
+  "productName": "Ikura",
+  "productSurname": "Koç",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 11,
+  "categoryId": 4,
+  "productName": "Queso Cabrales",
+  "productSurname": "Aydın",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 12,
+  "categoryId": 4,
+  "productName": "Queso Manchego La Pastora",
+  "productSurname": "Türkmen",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 13,
+  "categoryId": 8,
+  "productName": "Konbu",
+  "productSurname": "Güzel",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 14,
+  "categoryId": 7,
+  "productName": "Tofu",
+  "productSurname": "Yıldız",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 15,
+  "categoryId": 2,
+  "productName": "Mehmet Genen Shouyu",
+  "productSurname": "Kurt",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 16,
+  "categoryId": 3,
+  "productName": "Pavlova",
+  "productSurname": "Kılıç",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 17,
+  "categoryId": 6,
+  "productName": "Guiza",
+  "productSurname": "Güneş",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 18,
+  "categoryId": 8,
+  "productName": "Carnarvon Tigers",
+  "productSurname": "Ergin",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 19,
+  "categoryId": 3,
+  "productName": "Teatime Çikolata Bisküvileri",
+  "productSurname": "Köseoğlu",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 20,
+  "categoryId": 3,
+  "productName": "Sir Rodney'nin Marmelatı",
+  "productSurname": "Can",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 21,
+  "categoryId": 3,
+  "productName": "Serkan Rodney'nin Kekleri",
+  "productSurname": "Güler",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 22,
+  "categoryId": 5,
+  "productName": "Gustaf'ın Knäckebröd'ü",
+  "productSurname": "Yılmaz",
+  "image": "images/product.jpg.jpg"
+  },
+  {
+  "id": 23,
+  "categoryId": 5,
+  "productName": "Tuğba Tunnbröd",
+  "productSurname": "Demir",
+  "image": "images/product.jpg.jpg"
+  }
+  ],
+  
+  "categories": [
+      {
+        "id": 1,
+        "categoryName": "Group1"
+      },
+      {
+        "id": 2,
+        "categoryName": "Group2"
+      },
+      {
+        "id": 3,
+        "categoryName": "Group3"
+      },
+      {
+        "id": 4,
+        "categoryName": "Group4"
+      },
+      {
+        "id": 5,
+        "categoryName": "Group5"
+      },
+      {
+        "id": 6,
+        "categoryName": "Group6"
+      },
+      {
+        "id": 7,
+        "categoryName": "Group7"
+      },
+      {
+        "id": 8,
+        "categoryName": "Group8"
+      }
+    ]
+  }
