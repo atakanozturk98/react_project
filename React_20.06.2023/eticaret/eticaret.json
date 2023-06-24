@@ -1,0 +1,116 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Giyim"
+    },
+    {
+      "id": 3,
+      "name": "Kozmetik"
+    },
+    {
+      "id": 4,
+      "name": "Ev Dekorasyon"
+    },
+    {
+      "id": 5,
+      "name": "Spor"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Akıllı Telefon",
+      "category_id": 1,
+      "price": 2000,
+      "image": "images/akilli-telefon.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Kadın Tişört",
+      "category_id": 2,
+      "price": 50,
+      "image": "images/kadin-tisort.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Erkek Gömlek",
+      "category_id": 2,
+      "price": 70,
+      "image": "images/erkek-gomlek.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kadın Ceket",
+      "category_id": 2,
+      "price": 950,
+      "image": "images/kadın-ceket.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Güneş Kremi",
+      "category_id": 3,
+      "price": 390,
+      "image": "images/günes-kremi.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Erkek Parfüm",
+      "category_id": 3,
+      "price": 750,
+      "image": "images/erkek-parfüm.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tablo",
+      "category_id": 4,
+      "price": 7000,
+      "image": "images/tablo.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Bilgisayar",
+      "category_id": 1,
+      "price": 35000,
+      "image": "images/bilgisayar.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kamp Sandalyesi",
+      "category_id": 5,
+      "price": 250,
+      "image": "images/kamp-sandalyesi.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Dağ Bisikleti",
+      "category_id": 5,
+      "price": 7500,
+      "image": "images/dag-bisikleti.jpg"
+    },
+    {
+      "name": "Yeşil Ceket",
+      "category_id": 2,
+      "price": "100",
+      "image": "images/kadın-ceket.jpg",
+      "id": 11
+    }
+
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "quantity": 2
+    },
+    {
+      "id": 2,
+      "product_id": 3,
+      "quantity": 1
+    }
+  ]
+}
